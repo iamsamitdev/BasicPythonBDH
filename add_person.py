@@ -9,7 +9,7 @@ def addperson():
     # SQL สำหรับสร้างตารางใหม่
     sql = """
         INSERT INTO person(fullname, email, age) 
-        VALUES('วิชัย','wichai@email.com','42')
+        VALUES('Somkid','somkid@email.com','30')
     """
 
     try:
